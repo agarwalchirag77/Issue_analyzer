@@ -1,5 +1,4 @@
 import requests as requests
-
 from utils import Utils, Analysis
 from dotenv import load_dotenv
 from fastapi import FastAPI, Body

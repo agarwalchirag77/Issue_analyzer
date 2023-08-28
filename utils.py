@@ -1,10 +1,8 @@
 import json
 import os
-# import mysql.connector
 import requests
 import datetime
 import redshift_connector
-import snowflake.connector
 
 
 class Querier:
